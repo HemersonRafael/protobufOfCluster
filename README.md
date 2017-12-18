@@ -31,6 +31,7 @@ Gere os arquivos de configuração da compilação:
 Generate the build configuration files:
 
 ./autogen.sh
+
 ./configure --prefix=/usr
 
 
@@ -39,5 +40,7 @@ Compilação e instalação do protobuf:
 Build and install protobuf:
 
 make
+
 make check
+
 make install
