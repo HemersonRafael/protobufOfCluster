@@ -22,7 +22,9 @@ apt-get install dh-autoreconf
 
 wget https://github.com/HemersonRafael/protobufOfCluster/archive/master.zip
 
-unzip v2.5.0.zip
+unzip master.zip
+
+cd protobufOfCluster-master
 
 cd protobuf-2.5.0
 
